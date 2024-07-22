@@ -10,15 +10,15 @@
         "treefmt-nix": "treefmt-nix"
       },
       "locked": {
-        "lastModified": 1721578897,
-        "narHash": "sha256-zqK509Eqc4yiB1Mt2fSfip2PTOauFZuWfZIOYyUaoPM=",
-        "rev": "ed5dd028796a256cc26061ed5c3285b8a2c3cf24",
+        "lastModified": 1721661721,
+        "narHash": "sha256-oTc6klwTkek3MVpW3TpqEGppZeIopETw0WcFBW96TyE=",
+        "rev": "21346f84acf484833b7bc90d2b63e5d9bf31424d",
         "type": "tarball",
-        "url": "https://git.clan.lol/api/v1/repos/clan/clan-core/archive/ed5dd028796a256cc26061ed5c3285b8a2c3cf24.tar.gz"
+        "url": "https://git.clan.lol/api/v1/repos/clan/clan-core/archive/21346f84acf484833b7bc90d2b63e5d9bf31424d.tar.gz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://git.clan.lol/clan/clan-core/archive/inventory-fixes.tar.gz"
+        "url": "https://git.clan.lol/clan/clan-core/archive/rework-installation.tar.gz"
       }
     },
     "disko": {

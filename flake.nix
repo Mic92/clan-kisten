@@ -1,7 +1,7 @@
 {
   description = "<Put your description here>";
 
-  inputs.clan-core.url = "https://git.clan.lol/clan/clan-core/archive/inventory-fixes.tar.gz";
+  inputs.clan-core.url = "https://git.clan.lol/clan/clan-core/archive/rework-installation.tar.gz";
 
   outputs =
     { self, clan-core, ... }:
